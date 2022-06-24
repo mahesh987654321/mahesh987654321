@@ -1,6 +1,7 @@
+![Full stack web-developer](https://i.im.ge/2022/06/24/ursa2p.jpg)
 ### Hi there 👋, I am Mahesh Biswas
 #### Full stack web-developer
-![Full stack web-developer](https://i.im.ge/2022/06/24/ursa2p.jpg)
+
 
 I am Mahesh Biswas. I am a Full-stack web developer. In Full-stack I have an experience of 1+year. I made some projects on my own. And I am expert in Html, Css, Javascript, React js, Express js. 
 
